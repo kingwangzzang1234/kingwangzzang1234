@@ -1,11 +1,13 @@
-### Hi there 👋
-
 ### Let me introduce myself
 
 Hi, I am kingwangzzang1234.
+
 I am a AI data scientist usin python.
+
 So, I am pythonista.
+
 I love python so much.
+
 And I know Heung-min Son, BTS, psy.
 
 <!--
