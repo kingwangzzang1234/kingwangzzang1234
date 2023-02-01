@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Let me introduce myself
+
+Hi, I am kingwangzzang1234.
+I am a AI data scientist usin python.
+So, I am pythonista.
+I love python so much.
+And I know Heung-min Son, BTS, psy.
+
 <!--
 **kingwangzzang1234/kingwangzzang1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
