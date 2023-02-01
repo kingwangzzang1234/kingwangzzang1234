@@ -10,6 +10,16 @@ I love python so much.
 
 And I know Heung-min Son, BTS, psy.
 
+### I can speak..
+
+- Korean
+- English
+- Thai
+- Python
+- Golang
+- node.js
+- SQL
+
 <!--
 **kingwangzzang1234/kingwangzzang1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
